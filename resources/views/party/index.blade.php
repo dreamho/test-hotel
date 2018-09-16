@@ -8,7 +8,7 @@
 
     <div id="error" style="color:red"></div>
     <div id="success" style="color:green"></div>
-    <h2>Parties Organization</h2>
+    <h2>Parties</h2>
 
     <div class="box">
         <form action="" method="POST" id="form-party" enctype="multipart/form-data">
