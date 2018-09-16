@@ -75,7 +75,7 @@
 
         <div class="col-md-6">
                 <form>
-                    <label>Your name</label><br>
+                    <label>Enter your name</label><br>
                     <input type="text" name="name" class="form-control"><br>
                     <label>Your Email</label><br>
                     <input type="email" name="email" class="form-control"><br>
