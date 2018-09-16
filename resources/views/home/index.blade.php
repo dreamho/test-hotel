@@ -68,7 +68,7 @@
     <hr>
 
     <div class="row">
-        <div class="col-md-6"><h3>Contact us</h3></div>
+        <div class="col-md-6"><h3>Contact information</h3></div>
         <div class="col-md-6"><h3>Visit us</h3></div>
     </div>
     <div class="row">
