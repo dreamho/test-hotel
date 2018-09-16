@@ -74,16 +74,16 @@
     <div class="row">
 
         <div class="col-md-6">
-            <form>
-                <label>Your name</label><br>
-                <input type="text" name="name" class="form-control"><br>
-                <label>Your Email</label><br>
-                <input type="email" name="email" class="form-control"><br>
-                <label>Your Phone</label><br>
-                <input type="number" name="phone" class="form-control"><br>
-                <input type="submit" name="btn-submit" value="Submit" class="btn btn-default btn-block">
+                <form>
+                    <label>Your name</label><br>
+                    <input type="text" name="name" class="form-control"><br>
+                    <label>Your Email</label><br>
+                    <input type="email" name="email" class="form-control"><br>
+                    <label>Your Phone</label><br>
+                    <input type="number" name="phone" class="form-control"><br>
+                    <input type="submit" name="btn-submit" value="Submit" class="btn btn-default btn-block">
 
-            </form>
+                </form>
         </div>
         <div class="col-md-6" id="map">
             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2869.779476370681!2d20.900138215847058!3d44.005284479110856!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4757211a385cd97d%3A0x954fc66e4e527eed!2sQuantox+Technology!5e0!3m2!1sen!2srs!4v1528207994113"
